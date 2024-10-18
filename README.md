@@ -13,6 +13,18 @@ El repositorio incluye los siguientes módulos y proyectos:
 - **Regresión**: Modelos que predicen valores continuos a partir de variables independientes.
 - **Visualizaciones**: Gráficos y visualizaciones interactivas para explorar y presentar los datos de manera efectiva.
 
+## Notebooks
+- [¿Qué son los algoritmos de aprendizaje no supervisado?](./Algoritmos_NO_SUP.ipynb)
+- [¿Cómo crear modelos básicos de machine learning paso a paso?](./Creación_de_Modelos_Básicos.ipynb)
+- [¿Cómo diseñar redes neuronales con arquitecturas ANN y MLP?](./Diseño_de_Redes_Neuronales_ANN_MLP.ipynb)
+- [¿Qué es PCA y cómo se aplica para reducir dimensiones?](./Ejemplo_PCA.ipynb)
+- [¿Qué es el aprendizaje profundo y cuáles son sus conceptos fundamentales?](./Introducción_al_Aprendizaje_Profundo.ipynb)
+- [¿Cómo identificar las regiones de decisión en modelos supervisados y no supervisados?](./Limites_Regiones_Decision_en_SUP_NOSUP.ipynb)
+- [¿Qué es una matriz de confusión y cómo se utiliza para evaluar modelos de clasificación?](./Matriz_Confusion.ipynb)
+- [¿Qué diferencias existen entre las librerías Pandas y Polars?](./Pandas_vrs_Polars.ipynb)
+- [¿Cuáles son los principales tipos de datasets y sus aplicaciones?](./Tipos_de_Datasets.ipynb)
+
+
 ## Herramientas y Tecnologías
 Se utilizan diversas herramientas y bibliotecas de Python para el análisis de datos y machine learning, incluyendo:
 - Scikit-learn
