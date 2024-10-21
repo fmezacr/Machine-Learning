@@ -7,7 +7,7 @@ Bienvenido al repositorio "Machine Learning", un espacio dedicado a explorar y c
 El objetivo principal de este repositorio es proporcionar una base sólida y recursos educativos para estudiantes, investigadores y profesionales interesados en el aprendizaje automático. Se busca facilitar un entendimiento profundo de diferentes algoritmos y técnicas de machine learning, mostrando desde conceptos básicos hasta estrategias más avanzadas en la implementación y optimización de modelos.
 
 ## Contenido
-El repositorio incluye los siguientes módulos y proyectos:
+El repositorio incluye las siguientes temáticas:
 - **Clustering**: Ejemplos de K-Means, DBSCAN y otros algoritmos para identificar grupos y patrones en los datos no etiquetados.
 - **Clasificación**: Implementaciones de algoritmos como SVM, árboles de decisión, y redes neuronales para la clasificación de datos.
 - **Regresión**: Modelos que predicen valores continuos a partir de variables independientes.
