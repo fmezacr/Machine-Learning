@@ -23,7 +23,7 @@ El repositorio incluye las siguientes temáticas:
 - [¿Qué es PCA y cómo se aplica para reducir dimensiones?](./Ejemplo_PCA.ipynb)
 - [¿Qué es el aprendizaje profundo y cuáles son sus conceptos fundamentales?](./Introducción_al_Aprendizaje_Profundo.ipynb)
 - [¿Cómo diseñar redes neuronales con arquitecturas ANN-MLP?](./Diseño_de_Redes_Neuronales_ANN_MLP.ipynb)
-
+- [¿Cómo diseñar redes neuronales convolutivas CNN?](./Diseño_de_Redes_Neuronales_Convolutivas_CNN.ipynb)
 
 ## Herramientas y Tecnologías
 Se utilizan diversas herramientas y bibliotecas de Python para el análisis de datos y machine learning, incluyendo:
