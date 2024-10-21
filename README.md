@@ -22,7 +22,7 @@ El repositorio incluye los siguientes módulos y proyectos:
 - [¿Cómo identificar las regiones de decisión en modelos supervisados y no supervisados?](./Limites_Regiones_Decision_en_SUP_NOSUP.ipynb)
 - [¿Qué es PCA y cómo se aplica para reducir dimensiones?](./Ejemplo_PCA.ipynb)
 - [¿Qué es el aprendizaje profundo y cuáles son sus conceptos fundamentales?](./Introducción_al_Aprendizaje_Profundo.ipynb)
-- [¿Cómo diseñar redes neuronales con arquitecturas ANN y MLP?](./Diseño_de_Redes_Neuronales_ANN_MLP.ipynb)
+- [¿Cómo diseñar redes neuronales con arquitecturas ANN-MLP?](./Diseño_de_Redes_Neuronales_ANN_MLP.ipynb)
 
 
 ## Herramientas y Tecnologías
