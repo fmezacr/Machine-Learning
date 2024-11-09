@@ -43,7 +43,7 @@ Estamos abiertos a contribuciones! Si tienes sugerencias de mejoras, correccione
 
 ## Licencia
 
-Este proyecto está bajo la Licencia GPL-3.0 license y además la Licencia MIT
+Este proyecto está bajo la Licencia GPL-3.0 license y además la Licencia MIT - vea el archivo `LICENSE` para más detalles.
 
 ---
 
