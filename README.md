@@ -42,8 +42,7 @@ Estamos abiertos a contribuciones! Si tienes sugerencias de mejoras, correccione
 **Felipe Meza-Obando**
 
 ## Licencia
-Este proyecto está bajo la Licencia MIT - vea el archivo `LICENSE` para más detalles.
-
+Este proyecto está bajo la Licencia GPL-3.0 license y además la Licencia MIT
 ---
 
 Esperamos que encuentres útiles los recursos de este repositorio y te invitamos a ser parte de nuestra comunidad de aprendizaje y colaboración.
